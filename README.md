@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coder-sensai
+- 👋 Hi, I’m @coder-sensei
 - 👀 I’m interested in coding stuff
 - 🌱 I’m currently learning Laravel, HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on ...
